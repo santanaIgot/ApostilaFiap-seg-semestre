@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\logonrmlocal\Desktop\apostila-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+585378567.index
+551088099.index
